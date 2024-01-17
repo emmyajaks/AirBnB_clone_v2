@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Create a unique storage instance for your application"""
+"""Create a unique storage instances for your application"""
 
 from os import environ
 from models.base_model import BaseModel
